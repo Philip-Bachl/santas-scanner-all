@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "npx ts-node index.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "vite build"
+    "build": "echo building..."
   },
   "author": "#aleontour",
   "license": "ISC",
